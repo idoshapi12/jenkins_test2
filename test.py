@@ -2,7 +2,7 @@ import random as rand
 import sys
 
 # this rand does not include 0. it's can be either 1 or 2
-a = rand.randint(0, 2)
+a = rand.randint(0, 3)
 b = rand.randint(0, 2)
 def main():
 
@@ -13,7 +13,7 @@ def main():
 		if int(str(sys.argv[1])) + int(str(sys.argv[2])) <= 2:
 			sys.exit("sum is smaller than 3")
 	elif str(sys.argv[3]) == "test_rand":
-		if a + b <= 3:
+		if a + b <= 4:
 			sys.exit("sum is smaller than 3")
 
 
