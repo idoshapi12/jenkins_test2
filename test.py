@@ -13,7 +13,7 @@ def main():
 		if int(str(sys.argv[1])) + int(str(sys.argv[2])) <= 2:
 			sys.exit("sum is smaller than 3")
 	elif str(sys.argv[3]) == "test_rand":
-		if a + b <= 2:
+		if a + b <= 3:
 			sys.exit("sum is smaller than 3")
 
 
