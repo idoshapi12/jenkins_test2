@@ -5110,3 +5110,33 @@
 2020-07-06 11:10:29.8553 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
 2020-07-06 12:41:53.4927 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
 2020-07-06 13:01:57.2470 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 13:03:42.3151 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 13:18:53.7145 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 13:21:28.0578 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 14:15:53.1857 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 14:15:54.0099 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 15:15:08.3482 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 15:15:08.8203 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 16:14:41.7380 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 16:14:42.2383 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 18:32:12.5682 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 18:32:13.4796 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 19:07:12.0697 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 19:07:12.7899 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 20:59:59.8681 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-06 21:00:00.8395 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-06.txt with allowFileSharedWriting=False
+2020-07-07 09:11:54.0508 Debug FileTarget(Name=logfile): Process file 'C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt' on startup
+2020-07-07 09:11:54.1875 Debug Creating file appender: C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt
+2020-07-07 09:11:54.4972 Debug FileAppender Closing Stale - C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-01.txt
+2020-07-07 09:11:54.5889 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:11:54.8313 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:14:52.3455 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:14:56.0151 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:14:56.0310 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:14:56.0310 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:14:57.6752 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:14:57.9900 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:30:26.9515 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 09:30:28.7689 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 11:49:52.4794 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 11:49:53.0638 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
