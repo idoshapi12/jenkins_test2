@@ -1,1 +1,1 @@
-py "C:\temp\test.py" 1 1 test_rand
+py script.py
