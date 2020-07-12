@@ -8,6 +8,9 @@ pipeline {
     	choice(name: 'A', choices: ['1', '2', '3'], description: 'one to three')
     	choice(name: 'B', choices: ['1', '2', '3'], description: 'one to three')
     }
+    triggers{
+        corn{* * * * *}
+    }
     stages {
         stage('Build') {
             steps {
@@ -23,14 +26,14 @@ pipeline {
         }        
         stage('Test') {
             steps {
-            		echo "${params.A} ${params.B} ready to start test"
+            		echo "${params.B} ready to start test"
 
                    	bat label: '', script: 'py test.py 3 3 test_inputs'
             } 
 
             post {
             	always {
-            		echo "test finished"
+            		echo "test finished!"
             	}
                 success {
                     echo "test success"
@@ -42,3 +45,4 @@ pipeline {
         }
     }
 }
+
