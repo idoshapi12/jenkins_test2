@@ -9,7 +9,7 @@ pipeline {
     	choice(name: 'B', choices: ['1', '2', '3'], description: 'one to three')
     }
     triggers{
-        corn{* * * * *}
+        cron{* * * * *}
     }
     stages {
         stage('Build') {
@@ -36,7 +36,7 @@ pipeline {
             		echo "test finished!"
             	}
                 success {
-                    echo "test success"
+                    echo "test success!"
                 }
                 failure {
                 	echo "test failed"
