@@ -5,8 +5,8 @@ pipeline {
     	retry (3)
     }
     parameters {
-    	choise(name: 'A', choices ['1', '2', '3'], description: 'one to three')
-    	choise(name: 'B', choices ['1', '2', '3'], description: 'one to three')
+    	choice(name: 'A', choices ['1', '2', '3'], description: 'one to three')
+    	choice(name: 'B', choices ['1', '2', '3'], description: 'one to three')
     }
     stages {
         stage('Build') {
