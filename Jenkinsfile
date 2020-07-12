@@ -9,7 +9,7 @@ pipeline {
     	choice(name: 'B', choices: ['1', '2', '3'], description: 'one to three')
     }
     triggers{
-        cron('* * * * *')
+        pollSCM('*/15 * * * *')
     }
     stages {
         stage('Build') {
