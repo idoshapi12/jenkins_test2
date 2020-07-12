@@ -4,7 +4,7 @@ pipeline {
     options {
     	retry (3)
     }
-    parametrs {
+    parameters {
     	choise(name: 'A', choices ['1', '2', '3'], description: 'one to three')
     	choise(name: 'B', choices ['1', '2', '3'], description: 'one to three')
     }
