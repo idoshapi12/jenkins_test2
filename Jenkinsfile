@@ -52,7 +52,7 @@ pipeline {
                     steps {
                             echo "${params.B} ready to start test"
 
-                            bat label: '', script: 'py test.py 1 1 test_inputs'
+                            bat label: '', script: 'py test.py 1 3 test_inputs'
                     } 
 
                     post {
