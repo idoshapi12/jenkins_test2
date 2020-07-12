@@ -25,45 +25,46 @@ pipeline {
                 }
             }
         }
+        stage ('tests') {
+            parallel {
+                stage('Test a') {
 
-        parallel {
-            stage('Test a') {
+                    steps {
+                    		echo "${params.B} ready to start test"
 
-                steps {
-                		echo "${params.B} ready to start test"
+                           	bat label: '', script: 'py test.py 3 3 test_inputs'
+                    } 
 
-                       	bat label: '', script: 'py test.py 3 3 test_inputs'
-                } 
-
-                post {
-                	always {
-                		echo "test a finished!"
-                	}
-                    success {
-                        echo "test success!"
-                    }
-                    failure {
-                    	echo "test failed"
+                    post {
+                    	always {
+                    		echo "test a finished!"
+                    	}
+                        success {
+                            echo "test success!"
+                        }
+                        failure {
+                        	echo "test failed"
+                        }
                     }
                 }
-            }
 
-            stage('Test b') {
-                steps {
-                        echo "${params.B} ready to start test"
+                stage('Test b') {
+                    steps {
+                            echo "${params.B} ready to start test"
 
-                        bat label: '', script: 'py test.py 1 1 test_inputs'
-                } 
+                            bat label: '', script: 'py test.py 1 1 test_inputs'
+                    } 
 
-                post {
-                    always {
-                        echo "test b finished!"
-                    }
-                    success {
-                        echo "test success!"
-                    }
-                    failure {
-                        echo "test failed"
+                    post {
+                        always {
+                            echo "test b finished!"
+                        }
+                        success {
+                            echo "test success!"
+                        }
+                        failure {
+                            echo "test failed"
+                        }
                     }
                 }
             }
