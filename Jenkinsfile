@@ -5,8 +5,8 @@ pipeline {
     	retry (3)
     }
     parameters {
-    	choice(name: 'A', choices ['1', '2', '3'], description: 'one to three')
-    	choice(name: 'B', choices ['1', '2', '3'], description: 'one to three')
+    	choice(name: 'A', choices: ['1', '2', '3'], description: 'one to three')
+    	choice(name: 'B', choices: ['1', '2', '3'], description: 'one to three')
     }
     stages {
         stage('Build') {
@@ -24,7 +24,7 @@ pipeline {
         stage('Test') {
             steps {
             		echo "ready to start test"
-                   	bat label: '', script: 'py test.py ${A} ${B} test_inputs'
+                   	bat label: '', script: 'py test.py ${params.A} ${params.B} test_inputs'
             } 
 
             post {
