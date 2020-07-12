@@ -24,7 +24,7 @@ pipeline {
         stage('Test') {
             steps {
             		echo "ready to start test"
-                   	bat label: '', script: 'py test.py ${params.A} ${params.B} test_inputs'
+                   	bat label: '', script: 'py test.py ${A} ${B} test_inputs'
             } 
 
             post {
