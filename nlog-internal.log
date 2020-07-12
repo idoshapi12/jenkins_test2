@@ -5140,3 +5140,249 @@
 2020-07-07 09:30:28.7689 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
 2020-07-07 11:49:52.4794 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
 2020-07-07 11:49:53.0638 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 14:41:57.5158 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 14:41:58.2983 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 16:54:07.9214 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 16:54:08.7315 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:17.3793 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:18.6033 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:18.8989 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:19.0989 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:20.4113 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:20.6183 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 17:31:20.7953 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 18:51:32.5610 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 18:51:33.3897 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 19:23:59.9489 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 19:24:00.0090 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 19:59:28.5835 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 19:59:29.0398 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:48.4492 Debug ScanAssembly('NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2020-07-07 20:25:48.5842 Debug Found assembly location directory: 'C:\Users\ShapiraFamily\AppData\Local\MangoApps\TinyTake' (NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c)
+2020-07-07 20:25:48.5901 Debug Search for auto loading files in location: C:\Users\ShapiraFamily\AppData\Local\MangoApps\TinyTake
+2020-07-07 20:25:48.5901 Debug Found assembly location directory: 'C:\Users\ShapiraFamily\AppData\Local\MangoApps\TinyTake' (TinyTake by MangoApps, Version=5.2.16.0, Culture=neutral, PublicKeyToken=null)
+2020-07-07 20:25:48.6021 Debug Auto loading based on AppDomain-BaseDirectory found location: C:\Users\ShapiraFamily\AppData\Local\MangoApps\TinyTake
+2020-07-07 20:25:48.6021 Debug Start auto loading, location: C:\Users\ShapiraFamily\AppData\Local\MangoApps\TinyTake
+2020-07-07 20:25:48.6021 Debug Auto loading done
+2020-07-07 20:25:48.6226 Info Message Template Auto Format enabled
+2020-07-07 20:25:48.6980 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.7110 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2020-07-07 20:25:48.7110 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2020-07-07 20:25:48.7276 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2020-07-07 20:25:48.7276 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.7276 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:48.7465 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.7465 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2020-07-07 20:25:48.7569 Trace  Scanning Property Culture '' System.Globalization
+2020-07-07 20:25:48.7569 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2020-07-07 20:25:48.7569 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2020-07-07 20:25:48.7758 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:48.7758 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:48.7883 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.7883 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2020-07-07 20:25:48.7883 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.7883 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2020-07-07 20:25:48.8122 Debug Setting 'FileTarget.name' to 'logfile'
+2020-07-07 20:25:48.8122 Debug Setting 'FileTarget.fileName' to '${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt'
+2020-07-07 20:25:48.8226 Debug Setting 'SpecialFolderLayoutRenderer.folder' to 'ApplicationData'
+2020-07-07 20:25:48.8226 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.8226 Trace Scanning SpecialFolderLayoutRenderer 'Layout Renderer: ${specialfolder}'
+2020-07-07 20:25:48.8385 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.8385 Trace Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2020-07-07 20:25:48.8519 Debug Setting 'FileTarget.keepFileOpen' to 'false'
+2020-07-07 20:25:48.8519 Debug Setting 'FileTarget.layout' to '${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}'
+2020-07-07 20:25:48.8519 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.8668 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2020-07-07 20:25:48.8668 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2020-07-07 20:25:48.8668 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2020-07-07 20:25:48.8668 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.8862 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:48.8862 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.8862 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2020-07-07 20:25:48.9011 Trace  Scanning Property Culture '' System.Globalization
+2020-07-07 20:25:48.9011 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2020-07-07 20:25:48.9011 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2020-07-07 20:25:48.9151 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:48.9151 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:48.9151 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.9291 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2020-07-07 20:25:48.9291 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.9291 Trace Scanning ThreadIdLayoutRenderer 'Layout Renderer: ${threadid}'
+2020-07-07 20:25:48.9291 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2020-07-07 20:25:48.9470 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2020-07-07 20:25:48.9470 Info Adding target FileTarget(Name=logfile)
+2020-07-07 20:25:48.9470 Debug Registered target logfile: NLog.Targets.FileTarget
+2020-07-07 20:25:48.9620 Trace ParseRulesElement
+2020-07-07 20:25:48.9759 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2020-07-07 20:25:48.9759 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2020-07-07 20:25:49.0081 Debug Watching path 'C:\Users\ShapiraFamily\AppData\Local\MangoApps\TinyTake' filter 'NLog.config' for changes.
+2020-07-07 20:25:49.0081 Debug --- NLog configuration dump ---
+2020-07-07 20:25:49.0081 Debug Targets:
+2020-07-07 20:25:49.0235 Debug File Target[logfile]
+2020-07-07 20:25:49.0235 Debug Rules:
+2020-07-07 20:25:49.0235 Debug logNamePattern: (:All) levels: [ Info Warn Error Fatal ] appendTo: [ logfile ]
+2020-07-07 20:25:49.0385 Debug --- End of NLog configuration dump ---
+2020-07-07 20:25:49.0385 Trace FindReachableObject<System.Object>:
+2020-07-07 20:25:49.0385 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Info Warn Error Fatal ] appendTo: [ logfile ]'
+2020-07-07 20:25:49.0559 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic
+2020-07-07 20:25:49.0559 Trace  Scanning FileTarget 'File Target[logfile]'
+2020-07-07 20:25:49.0559 Trace   Scanning Property FileName ''${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt'' NLog.Layouts
+2020-07-07 20:25:49.0698 Trace   Scanning SimpleLayout ''${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt''
+2020-07-07 20:25:49.0698 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.0698 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.0698 Trace    Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2020-07-07 20:25:49.0881 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.0881 Trace   Scanning Property LineEnding 'Default' NLog.Targets
+2020-07-07 20:25:49.0881 Trace   Scanning Property Encoding 'System.Text.SBCSCodePageEncoding' System.Text
+2020-07-07 20:25:49.1021 Trace   Scanning Property Layout ''${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}'' NLog.Layouts
+2020-07-07 20:25:49.1021 Trace   Scanning SimpleLayout ''${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}''
+2020-07-07 20:25:49.1021 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.1021 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2020-07-07 20:25:49.1201 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.1201 Trace    Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2020-07-07 20:25:49.1201 Trace     Scanning Property Culture '' System.Globalization
+2020-07-07 20:25:49.1343 Trace     Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2020-07-07 20:25:49.1343 Trace     Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2020-07-07 20:25:49.1343 Trace      Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.1343 Trace      Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:49.1522 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.1522 Trace    Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2020-07-07 20:25:49.1522 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.1665 Trace    Scanning ThreadIdLayoutRenderer 'Layout Renderer: ${threadid}'
+2020-07-07 20:25:49.1665 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.1665 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2020-07-07 20:25:49.1805 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic
+2020-07-07 20:25:49.1805 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic
+2020-07-07 20:25:49.1805 Trace  Scanning Property Levels 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LogLevel]' System.Collections.ObjectModel
+2020-07-07 20:25:49.1944 Info Found 18 configuration items
+2020-07-07 20:25:49.1944 Trace Initializing Layout Renderer: ${message}
+2020-07-07 20:25:49.1944 Trace Initializing Layout Renderer: ${literal}
+2020-07-07 20:25:49.1944 Trace Initializing Layout Renderer: ${threadid}
+2020-07-07 20:25:49.2138 Trace Initializing Layout Renderer: ${literal}
+2020-07-07 20:25:49.2138 Trace Initializing Layout Renderer: ${logger}
+2020-07-07 20:25:49.2138 Trace Initializing Layout Renderer: ${literal}
+2020-07-07 20:25:49.2268 Trace Initializing Layout Renderer: ${level}
+2020-07-07 20:25:49.2268 Trace Initializing SimpleLayout=Layout Renderer: ${level}
+2020-07-07 20:25:49.2462 Trace FindReachableObject<System.Object>:
+2020-07-07 20:25:49.2462 Trace Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2020-07-07 20:25:49.2462 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.2602 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:49.2772 Trace Initializing Layout Renderer: ${uppercase}
+2020-07-07 20:25:49.2772 Trace Initializing Layout Renderer: ${literal}
+2020-07-07 20:25:49.2772 Trace Initializing Layout Renderer: ${longdate}
+2020-07-07 20:25:49.2912 Trace Initializing '${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}'
+2020-07-07 20:25:49.2912 Trace FindReachableObject<System.Object>:
+2020-07-07 20:25:49.2912 Trace Scanning SimpleLayout ''${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}''
+2020-07-07 20:25:49.3051 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.3051 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2020-07-07 20:25:49.3051 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.3051 Trace  Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2020-07-07 20:25:49.3231 Trace   Scanning Property Culture '' System.Globalization
+2020-07-07 20:25:49.3231 Trace   Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2020-07-07 20:25:49.3231 Trace   Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2020-07-07 20:25:49.3373 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.3373 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2020-07-07 20:25:49.3373 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.3512 Trace  Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2020-07-07 20:25:49.3512 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.3512 Trace  Scanning ThreadIdLayoutRenderer 'Layout Renderer: ${threadid}'
+2020-07-07 20:25:49.3512 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.3696 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2020-07-07 20:25:49.3696 Trace Initializing Layout Renderer: ${literal}
+2020-07-07 20:25:49.3696 Trace Initializing Layout Renderer: ${shortdate}
+2020-07-07 20:25:49.3845 Trace Initializing Layout Renderer: ${literal}
+2020-07-07 20:25:49.3845 Trace Initializing '${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt'
+2020-07-07 20:25:49.3845 Trace FindReachableObject<System.Object>:
+2020-07-07 20:25:49.3980 Trace Scanning SimpleLayout ''${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt''
+2020-07-07 20:25:49.3980 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2020-07-07 20:25:49.3980 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.3980 Trace  Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2020-07-07 20:25:49.4159 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2020-07-07 20:25:49.4159 Trace Initializing File Target[logfile]
+2020-07-07 20:25:49.4159 Trace FindReachableObject<NLog.Layouts.Layout>:
+2020-07-07 20:25:49.4323 Trace Scanning FileTarget 'File Target[logfile]'
+2020-07-07 20:25:49.4323 Trace  Scanning Property FileName ''${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt'' NLog.Layouts
+2020-07-07 20:25:49.4323 Trace  Scanning SimpleLayout ''${specialfolder:folder=ApplicationData}/TinyTake by MangoApps/LOGS/logs_${shortdate}.txt''
+2020-07-07 20:25:49.4463 Trace  Scanning Property Layout ''${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}'' NLog.Layouts
+2020-07-07 20:25:49.4463 Trace  Scanning SimpleLayout ''${longdate}|${level:uppercase=true}|${logger}|${threadid}|${message}''
+2020-07-07 20:25:49.4463 Trace  Scanning Property LineEnding 'Default' NLog.Targets
+2020-07-07 20:25:49.4602 Trace  Scanning Property Encoding 'System.Text.SBCSCodePageEncoding' System.Text
+2020-07-07 20:25:49.4602 Trace File Target[logfile] has 2 layouts
+2020-07-07 20:25:49.4602 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2020-07-07 20:25:49.4795 Info Configuration initialized.
+2020-07-07 20:25:49.4795 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.2.9511. Product version: 4.6.2.
+2020-07-07 20:25:49.4924 Debug Targets for SimpleShareWPF.Helpers.Utilityhelper by level:
+2020-07-07 20:25:49.4924 Debug Trace =>
+2020-07-07 20:25:49.4924 Debug Debug =>
+2020-07-07 20:25:49.5074 Debug Info => logfile
+2020-07-07 20:25:49.5074 Debug Warn => logfile
+2020-07-07 20:25:49.5074 Debug Error => logfile
+2020-07-07 20:25:49.5074 Debug Fatal => logfile
+2020-07-07 20:25:49.8725 Debug FileTarget(Name=logfile): Process file 'C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt' on startup
+2020-07-07 20:25:49.8725 Debug Creating file appender: C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt
+2020-07-07 20:25:49.8855 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:49.9148 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:50.3372 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:50.3372 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:55.7785 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:55.8451 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.2781 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.2881 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.3140 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.3260 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.3432 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.3571 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.3700 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.3843 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4002 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4151 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4291 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4291 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4560 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4760 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.4760 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.5044 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.5382 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.5542 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.5694 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.5694 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:25:56.5942 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:26:07.4945 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:26:07.4945 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:26:07.9730 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:26:08.1422 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:31:56.7983 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:31:56.7983 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 20:31:58.4988 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 21:46:22.6405 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-07 21:46:23.3271 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-07.txt with allowFileSharedWriting=False
+2020-07-08 08:38:41.5445 Debug FileTarget(Name=logfile): Process file 'C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt' on startup
+2020-07-08 08:38:41.6013 Debug Creating file appender: C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt
+2020-07-08 08:38:41.6552 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 08:38:41.9883 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 09:43:14.6604 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 09:43:14.7423 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 11:37:49.8816 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 11:37:50.7596 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 16:54:37.0613 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-08 16:54:37.1891 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-08.txt with allowFileSharedWriting=False
+2020-07-09 13:25:26.8337 Debug FileTarget(Name=logfile): Process file 'C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-09.txt' on startup
+2020-07-09 13:25:27.3638 Debug Creating file appender: C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-09.txt
+2020-07-09 13:25:27.5553 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-09.txt with allowFileSharedWriting=False
+2020-07-09 13:25:27.7019 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-09.txt with allowFileSharedWriting=False
+2020-07-11 14:47:22.4889 Debug FileTarget(Name=logfile): Process file 'C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-11.txt' on startup
+2020-07-11 14:47:22.5757 Debug Creating file appender: C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-11.txt
+2020-07-11 14:47:22.6106 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-11.txt with allowFileSharedWriting=False
+2020-07-11 14:47:22.8420 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-11.txt with allowFileSharedWriting=False
+2020-07-11 17:00:07.0213 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-11.txt with allowFileSharedWriting=False
+2020-07-11 17:00:07.2816 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-11.txt with allowFileSharedWriting=False
+2020-07-12 09:15:54.0892 Debug FileTarget(Name=logfile): Process file 'C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt' on startup
+2020-07-12 09:15:54.2718 Debug Creating file appender: C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt
+2020-07-12 09:15:54.3336 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 09:15:54.3785 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 09:41:35.3011 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 09:41:36.0738 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 09:52:36.2674 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 09:54:18.8694 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 09:54:19.8017 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
+2020-07-12 10:46:40.8432 Trace Opening C:\Users\ShapiraFamily\AppData\Roaming\TinyTake by MangoApps\LOGS\logs_2020-07-12.txt with allowFileSharedWriting=False
